@@ -1,4 +1,3 @@
-# TTRockstars-Hacks
 <h1 align="center">TTRockstars Hacks</h1>
 <h3 align="center">One of the best times table rock-stars hacks.</h3>
 <h2 align="center">Discord Support Server: https://discord.gg/wqz4jW6a</h2>
